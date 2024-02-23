@@ -1,0 +1,5 @@
+Data,Prediction,Train,Valid,Test
+ETTh1,96,0,0,1
+ETTh1,192,0,0,1
+ETTh1,336,0,0,1
+ETTh1,720,0,0,1

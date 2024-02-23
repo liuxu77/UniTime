@@ -1,0 +1,5 @@
+Data,Prediction,Train,Valid,Test
+Weather,96,0,0,1
+Weather,192,0,0,1
+Weather,336,0,0,1
+Weather,720,0,0,1

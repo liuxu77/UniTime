@@ -1,0 +1,17 @@
+{
+    "ETTh1": "electricity transformer A data with one hour sample rate.",
+
+    "ETTh2": "electricity transformer B data with one hour sample rate.",
+
+    "ETTm1": "electricity transformer A data with fifteen minute sample rate.",
+
+    "ETTm2": "electricity transformer B data with fifteen minute sample rate.",
+
+    "Electricity": "power consumption data with hourly sample rate.",
+
+    "Weather": "meteorological indicator data with ten minute sample rate.",
+
+    "Exchange": "exchange rate data with one day sample rate.",
+
+    "Illness": "patient number data with one week sample rate."
+}
