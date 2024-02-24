@@ -1,4 +1,4 @@
-# UniTime (WWW 2024)
+# UniTime
 
 This is the official repository of our WWW 2024 paper [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/pdf/2310.09751.pdf). UniTime aims to explore the potential of utilizing a unified model for generalization across time series application domains. This code base offers an implementation to facilitate cross-domain time series learning research.
 
@@ -15,7 +15,6 @@ pip install -r requirements.txt
 
 ### Datasets
 The pre-processed datasets can be obtained from the link [here](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2?usp=sharing). Then you may choose to download `all_datasets.zip`, place this zip file into the `dataset` folder, and finally unzip the file.
-
 
 ### Running
 In general, we use a csv file to indicate the executing tasks (including training and evaluations) during the cross-domain learning process. There are five columns in the file.
